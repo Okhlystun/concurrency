@@ -1,2 +1,2 @@
 # concurrency
-Examples, simple enough for understanding of multithreading and concurrency in Java
+Examples of multithreading and concurrency in Java, simple enough for understanding.
